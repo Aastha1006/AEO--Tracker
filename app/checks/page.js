@@ -207,7 +207,7 @@ export default function Checks() {
 
       {checks.length === 0 ? (
         <p style={{ fontStyle: "italic", color: "#666666" }}>
-          No results yet. Click "Run Check" to generate results.
+          No results yet. Click &quot;"Run Check"&quot; to generate results.
         </p>
       ) : (
         <div style={tableContainer}>
