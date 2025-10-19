@@ -199,7 +199,7 @@ export default function Checks() {
           onMouseLeave={(e) => (e.target.style.backgroundColor = "#0070f3")}
           style={buttonStyle}
         >
-          Run Check
+          Run&nbsp;Check
         </button>
       </div>
 
